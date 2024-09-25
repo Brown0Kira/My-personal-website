@@ -1,0 +1,179 @@
+
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    
+}
+
+.top-container {
+    background-color:#222831; 
+    background-image: url("./images/background-full.png");   
+}
+ 
+
+ .navbar {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    position: sticky;
+    overflow: hidden;
+    width: 100%;
+    background-color: #78386d !important;
+ }
+ 
+h1 {
+    font-family: "Sacramento", cursive;
+    font-size: 120px;
+    margin: 10px auto 30px auto;
+    color: #eeeeee;    
+}
+
+.programmer {
+    text-decoration: underline;
+}
+
+.intro-text {
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    letter-spacing: 3px;
+    margin: 0 auto 100px auto;
+    color: #eeeeee;
+}
+
+#about {
+    background-color: #eeeeee;
+}
+
+.profile {
+    border-radius: 50%;
+}
+
+.who {
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 50px;
+    font-weight: 800;
+    font-style: normal;
+    color: #222831;
+  }
+
+.info-paragraph {
+    color: #393e46;
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align:justify;
+}
+
+.button {
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.my-5 {
+    margin-bottom: 0px !important;
+}
+.middle-container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #78386d;
+    padding-bottom: 50px;
+}
+
+.skills {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 50px;
+    font-weight: 700;
+    color: #222831;
+    font-style: normal;
+    text-align: center;
+}
+
+
+.logo-text {
+    color: #eeeeee;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+.middle-container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#222831;
+}
+
+
+.projects {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-family: "League Spartan", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 50px;
+    font-weight: 700;
+    color:#eeeeee;
+    font-style: normal;
+    text-align: center;
+}
+
+.round {
+    margin-bottom: 20px;
+    margin-right: 60px;
+    border-radius: 5%;
+}
+
+.middle-container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#222831 ;
+}
+
+.contact-paragraph {
+    color: #eeeeee;
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: justify;
+}
+
+footer {
+    background-color: #78386d;
+}
+
+.my-4 {
+    margin-top: 0px !important;
+}
+
+
+.nav-paragraph {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    color: #eeeeee !important;
+}
+
+.svg-boot {
+    margin-top: 30px;
+  margin-right: 20px;
+}
+
+@media (max-width: 480px) {
+
+    .logo {
+        margin-left: 160px;
+    }
+    .round {
+        margin-left: 90px;
+    }
+    .button {
+       
+    }
+
+}
+
