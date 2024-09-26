@@ -1,9 +1,11 @@
+
 html,body {
     width: 100%;
     height: 100vh;
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
+  
 }
 
 .top-container {
@@ -163,7 +165,8 @@ footer {
 }
 
 @media (max-width: 480px) {
-       .projects {
+
+    .projects {
         font-size: 40px;
     }
     
