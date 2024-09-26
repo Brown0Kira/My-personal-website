@@ -162,16 +162,9 @@ footer {
 }
 
 @media (max-width: 480px) {
-
-    .logo {
-        margin-left: 160px;
+       .projects {
+        font-size: 40px;
     }
-    .round {
-        margin-left: 90px;
-    }
-    .button {
-       
-    }
-
+    
 }
 
