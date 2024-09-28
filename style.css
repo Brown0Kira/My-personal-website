@@ -164,11 +164,56 @@ footer {
   margin-right: 20px;
 }
 
+@media (max-width: 991px) {
+
+    .row{
+        display: block;
+        text-align: center;
+       }
+       
+       .row img{
+        display: inline-block;
+       }
+}
+
 @media (max-width: 480px) {
+     
+    .who {
+        font-size: 40px;
+    }
+
+    .skills {
+        font-size: 40px;
+    }
 
     .projects {
         font-size: 40px;
     }
     
+    .logo {
+        height: 120px;
+    }
+
+    .logo-text {
+        font-size: 20px;
+    }
+
+    .round {
+        margin-left: 50px !important;
+       height: 150px !important;
+       
+    }
+    
+    .info-paragraph {
+        font-size: 20px;
+    }
+
+    .py-5 {
+        padding-top: 0 !important;
+    }
+
+    .contact-paragraph {
+        font-size: 20px;
+    }
 }
 
