@@ -182,6 +182,11 @@ footer {
     .round {
         margin-left: 50px !important;
     }
+    
+     .d-grid {
+        display: flex !important;
+        justify-content: center;
+    }
 }
 
 @media (max-width: 480px) {
