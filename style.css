@@ -152,6 +152,10 @@ footer {
     margin-bottom: 0px !important;
 }
 
+.pyy-5 {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+}
 
 .nav-paragraph {
     margin-top: 20px;
@@ -174,6 +178,10 @@ footer {
        .row img{
         display: inline-block;
        }
+
+    .round {
+        margin-left: 50px !important;
+    }
 }
 
 @media (max-width: 480px) {
@@ -199,16 +207,14 @@ footer {
     }
 
     .round {
-        margin-left: 50px !important;
        height: 150px !important;
-       
     }
     
     .info-paragraph {
         font-size: 20px;
     }
 
-    .py-5 {
+    .pyy-5 {
         padding-top: 0 !important;
     }
 
