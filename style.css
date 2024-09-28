@@ -169,7 +169,10 @@ footer {
 }
 
 @media (max-width: 991px) {
-
+    .navbar {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
     .row{
         display: block;
         text-align: center;
